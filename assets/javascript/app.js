@@ -120,7 +120,6 @@ $(document).ready(function () {
         $("#show-time").text("Game Over!!!")
         $("#questions").empty();
 
-        //$("#radio_1").prop("checked", true);
         // Because I couldn't get the answers to display correctly, I wasn't able to check for correct answers and have the correct/incorrect variables incremented
         // if (question[i].answers === question[i].answers[j].correctAnswer) {
         //     correct++;
